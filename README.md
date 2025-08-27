@@ -29,8 +29,8 @@ Página de detalhes do produto
 Carrinho de compras
 Login/Registro
 Checkout
-📎 Link do Protótipo no Figma
-(ou adicionar imagem abaixo quando tiver exportado)
+📎 Link do Protótipo do Canva
+(https://www.canva.com/design/DAGwuIyf4oY/VcX6s2EVbrFHDGF5ES8bjw/edit?utm_content=DAGwuIyf4oY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 Etapa Atual Etapa 1 – Planejamento
 Repositório criado
